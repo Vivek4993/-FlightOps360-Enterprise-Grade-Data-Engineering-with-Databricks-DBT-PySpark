@@ -1,0 +1,2 @@
+# -FlightOps360-Enterprise-Grade-Data-Engineering-with-Databricks-DBT-PySpark
+FlightOps360 is a real-world, end-to-end data engineering project built using a modern, scalable big data stack. Centered around airline flight data, this project simulates a production-grade data pipeline, transforming raw aviation data into clean, analytics-ready datasets using best practices in data engineering and architecture.
