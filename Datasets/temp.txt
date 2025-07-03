@@ -1,0 +1,1 @@
+Dataset to be used  for csv data loading  into the volume  raw  schema into  sub diectories or  sub folders of raw_data folder under raw_volume  managed  serverless  and  whichs is under the schema named  raw in our worj space
